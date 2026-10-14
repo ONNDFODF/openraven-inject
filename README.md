@@ -331,8 +331,7 @@ puts the unpacked jar there too.
 ## Credits
 
 The injection architecture follows [InjectMyau](../../InjectMyau-main), which is
-the reference implementation of doing this for a launcher client. The client is
-Open B4, which is Raven B4 with the backend calls removed.
+the reference implementation of doing this for a launcher client. I'm a dumb nvm this shit.
 
 ## License
 
