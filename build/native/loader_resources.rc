@@ -1,0 +1,3 @@
+#define IDR_EMBEDDED_AGENT 101
+IDR_EMBEDDED_AGENT RCDATA "D:/Minecraft/openb4/openraven-inject/build/native/openraven_native.dll"
+1 24 "D:/Minecraft/openb4/openraven-inject/openraven-natives/loader/app.manifest"

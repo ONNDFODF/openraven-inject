@@ -1,0 +1,6 @@
+// Resources built into the loader executable.
+
+#define IDR_EMBEDDED_AGENT 101
+IDR_EMBEDDED_AGENT RCDATA "@PAYLOAD_DIR@/openraven_native.dll"
+
+@MANIFEST_RESOURCE@

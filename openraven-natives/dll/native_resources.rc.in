@@ -1,0 +1,4 @@
+// Resources the agent carries inside itself.
+
+#define IDR_EMBEDDED_JAR 101
+IDR_EMBEDDED_JAR RCDATA "@CLIENT_JAR@"

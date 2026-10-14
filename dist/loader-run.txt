@@ -1,0 +1,5 @@
+java processes:
+  (none running)
+none of these look like Minecraft -- start the game first
+
+press enter to close

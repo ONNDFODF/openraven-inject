@@ -1,0 +1,6 @@
+#define IDR_EMBEDDED_JAR_SRG 101
+IDR_EMBEDDED_JAR_SRG RCDATA "D:/Minecraft/openb4/openraven-inject/dist/OpenRaven-Inject.jar"
+#define IDR_EMBEDDED_JAR_MCP 102
+IDR_EMBEDDED_JAR_MCP RCDATA "D:/Minecraft/openb4/openraven-inject/dist/OpenRaven-Inject-mcp.jar"
+#define IDR_EMBEDDED_JAR_NOTCH 103
+IDR_EMBEDDED_JAR_NOTCH RCDATA "D:/Minecraft/openb4/openraven-inject/dist/OpenRaven-Inject-notch.jar"

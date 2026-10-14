@@ -1,0 +1,27 @@
+[openraven]---- loaded into pid 20856 ----
+[openraven]log file: D:\Minecraft\openb4\openraven-inject\dist\openraven-native.log
+[openraven]---- injected ----
+[openraven]JVMTI capabilities added
+[openraven]the game is running mcp names
+[openraven]the sidecar names a jar that is not there; using the embedded one
+[openraven]unpacked the embedded jar: 1514155 bytes to D:\Minecraft\openb4\openraven-inject\dist\openraven_client_99bdb6eb.jar
+[openraven]game class loader found by name (net.minecraft.client.Minecraft)
+[openraven]jar added to the game class loader: D:\Minecraft\openb4\openraven-inject\dist\openraven_client_99bdb6eb.jar
+[openraven]Bridge loaded
+[openraven]native retransform registered
+[openraven]ClassFileLoadHook active
+[openraven]retransformed 12 of 12 already-loaded classes
+[openraven]---- installed ----
+[openraven]---- loaded into pid 21392 ----
+[openraven]log file: D:\Minecraft\openb4\openraven-inject\dist\openraven-native.log
+[openraven]---- injected ----
+[openraven]JVMTI capabilities added
+[openraven]the game is running mcp names
+[openraven]using the jar named by the sidecar
+[openraven]game class loader found by name (net.minecraft.client.Minecraft)
+[openraven]jar added to the game class loader: D:\Minecraft\openb4\openraven-inject\dist\OpenRaven-Inject-mcp.jar
+[openraven]Bridge loaded
+[openraven]native retransform registered
+[openraven]ClassFileLoadHook active
+[openraven]retransformed 12 of 12 already-loaded classes
+[openraven]---- installed ----
